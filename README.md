@@ -1,6 +1,5 @@
-# bio
+# Whois
 
-(3rd person bit incoming)
 *Ingmar König creates interiors as interfaces in the physical and digital realm.His 
 installations evoke detours, exposing our shortcomings when traversing through the unknown.
 His work has been exhibited worldwide at, amongst others, P/////AKT Amsterdam, 
@@ -14,8 +13,6 @@ department of the WdKA and collaborates with artist/designer Jasmijn Visser.*
 
 🤦‍♂️ Here for the help. I am quite familiar with html and css, however since I recently dove into C# (via Unity, yes) I get more interested in using code to create. Github is still a bit overwhelming as I try to wrap my head around it. But it seems like a platform and network where I can start to learn a lot more. which is the one thing i love doing,.
 
-# contact
-
-* See my work at [ingmarkonig.nl](https://www.ingmarkonig.nl)
-* Follow me on [instragram](https://www.instagram.com/iganmr)
-* Contact me via [linkedin](https://www.linkedin.com/in/iganmr)
+👷‍♂️ See my work at [ingmarkonig.nl](https://www.ingmarkonig.nl)
+📸 Follow me on [instragram](https://www.instagram.com/iganmr)
+📤 Reach out via [linkedin](https://www.linkedin.com/in/iganmr)
