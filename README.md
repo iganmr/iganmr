@@ -11,7 +11,9 @@ department of the WdKA and collaborates with artist/designer Jasmijn Visser.*
 
 🤦‍♂️ Here for the help,basically. I am quite familiar with html and css, however since I recently dove into C# (via Unity, yes) I get more interested in using code to create. Github is still a bit overwhelming as I try to wrap my head around it. But it seems like a platform and network where I can start to learn a lot more. which is the one thing i love doing,.
 
-🕸️ To learn or see more of what I did: visit my [portfolio](https://www.ingmarkonig.nl)
+➡ To learn or see more of what I did: 
+
+🕸 Visit my [portfolio](https://www.ingmarkonig.nl)
 
 📸 Follow me on [instragram](https://www.instagram.com/iganmr)
 
